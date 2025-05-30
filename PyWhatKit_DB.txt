@@ -1,0 +1,185 @@
+Date: 28/5/2025
+Time: 20:21
+Phone Number: +918310308638
+Message: Hello from Python!
+--------------------
+Date: 28/5/2025
+Time: 20:23
+Phone Number: +918310308638
+Message: how are you?
+--------------------
+Date: 28/5/2025
+Time: 20:27
+Phone Number: +918310308638
+Message: Hello from Python!
+--------------------
+Date: 28/5/2025
+Time: 20:28
+Phone Number: +919972266447
+Message: Hello from Python!
+--------------------
+Date: 28/5/2025
+Time: 20:41
+Phone Number: +919980370223
+Message: Hello from Python!
+--------------------
+Date: 28/5/2025
+Time: 20:43
+Phone Number: +919980370223
+Message: Hello from Python!
+--------------------
+Date: 28/5/2025
+Time: 20:45
+Phone Number: +919980370223
+Message: Hello from Python!
+--------------------
+Date: 28/5/2025
+Time: 20:45
+Phone Number: +919980370223
+Message: Hello
+--------------------
+Date: 29/5/2025
+Time: 10:11
+Phone Number: +918310308638
+Message: Hello
+--------------------
+Date: 29/5/2025
+Time: 10:13
+Phone Number: +918310308638
+Message: Hello
+--------------------
+Date: 29/5/2025
+Time: 10:15
+Phone Number: +918310308638
+Message: Hi Khushi send COA assingment
+--------------------
+Date: 29/5/2025
+Time: 10:20
+Phone Number: +918310308638
+Message: Hi Khushi send COA assingment
+--------------------
+Date: 30/5/2025
+Time: 19:14
+Phone Number: +916360616620
+Message: PRESENT
+--------------------
+Date: 30/5/2025
+Time: 19:14
+Phone Number: +918657496924
+Message: ABSENT
+--------------------
+Date: 30/5/2025
+Time: 19:15
+Phone Number: +919611944235
+Message: PRESENT
+--------------------
+Date: 30/5/2025
+Time: 19:16
+Phone Number: +919980798341
+Message: ABSENT
+--------------------
+Date: 30/5/2025
+Time: 19:16
+Phone Number: +918310308638
+Message: PRESENT
+--------------------
+Date: 30/5/2025
+Time: 20:0
+Phone Number: +916360616620
+Message: PRESENT
+--------------------
+Date: 30/5/2025
+Time: 20:1
+Phone Number: +918657496924
+Message: ABSENT
+--------------------
+Date: 30/5/2025
+Time: 20:2
+Phone Number: +919611944235
+Message: PRESENT
+--------------------
+Date: 30/5/2025
+Time: 20:2
+Phone Number: +919980798341
+Message: ABSENT
+--------------------
+Date: 30/5/2025
+Time: 20:3
+Phone Number: +918310308638
+Message: PRESENT
+--------------------
+Date: 30/5/2025
+Time: 20:4
+Phone Number: +916360616620
+Message: PRESENT
+--------------------
+Date: 30/5/2025
+Time: 20:4
+Phone Number: +916360616620
+Message: PRESENT
+--------------------
+Date: 30/5/2025
+Time: 20:4
+Phone Number: +918657496924
+Message: ABSENT
+--------------------
+Date: 30/5/2025
+Time: 20:5
+Phone Number: +918657496924
+Message: ABSENT
+--------------------
+Date: 30/5/2025
+Time: 20:5
+Phone Number: +919611944235
+Message: PRESENT
+--------------------
+Date: 30/5/2025
+Time: 20:5
+Phone Number: +919611944235
+Message: PRESENT
+--------------------
+Date: 30/5/2025
+Time: 20:5
+Phone Number: +919980798341
+Message: ABSENT
+--------------------
+Date: 30/5/2025
+Time: 20:6
+Phone Number: +919980798341
+Message: ABSENT
+--------------------
+Date: 30/5/2025
+Time: 20:6
+Phone Number: +918310308638
+Message: PRESENT
+--------------------
+Date: 30/5/2025
+Time: 20:7
+Phone Number: +918310308638
+Message: PRESENT
+--------------------
+Date: 30/5/2025
+Time: 20:15
+Phone Number: +916360616620
+Message: PRESENT
+--------------------
+Date: 30/5/2025
+Time: 20:16
+Phone Number: +918657496924
+Message: ABSENT
+--------------------
+Date: 30/5/2025
+Time: 20:17
+Phone Number: +919611944235
+Message: PRESENT
+--------------------
+Date: 30/5/2025
+Time: 20:17
+Phone Number: +919980798341
+Message: ABSENT
+--------------------
+Date: 30/5/2025
+Time: 20:18
+Phone Number: +918310308638
+Message: PRESENT
+--------------------
